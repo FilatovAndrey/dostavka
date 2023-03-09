@@ -1,0 +1,11 @@
+@import "./reset.css";
+@import "./variables.scss";
+
+.container{
+    max-width: 1440px;
+    margin:0 auto;
+    padding: 15px;
+}
+img{
+    max-width: 100%;
+}

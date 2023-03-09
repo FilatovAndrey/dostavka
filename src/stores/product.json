@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "type": "Замороженные полуфабрикаты",
+    "inStock": 900,
+    "img": "https://s74794.cdn.ngenix.net/m/2bcd/0c17/aab3/4987/871a/a84e/3b3b/ef44/3200_2000_max.jpeg",
+    "product": [
+      {
+        "id": 1,
+        "type": "Блины",
+        "inStock": 400,
+        "img": "https://avatars.mds.yandex.net/i?id=e1b6315773a9e2cd2e1b640397b4ac7c982ac83f-8496938-images-thumbs&n=13",
+        "which": [
+          {
+            "id": 1,
+            "type": "Блины с творогом",
+            "img": "https://ketokotleta.ru/wp-content/uploads/b/a/b/bab3c44a21bf16afa0b89298f8255925.jpeg",
+            "inStock": 50,
+            "price": 226
+          },
+          {
+            "id": 2,
+            "type": "Блины с мясом",
+            "img": "https://images.kot-obzhora.ru/1920_bliny-farshirovannye-kurinoj-pechenyu-2_9ebc099811.jpg",
+            "inStock": 350,
+            "price": 240
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "type": "Пельмени",
+        "inStock": 500,
+        "img": "https://avatars.mds.yandex.net/i?id=9f17499207c765f006a807b80629520a73f789df-8497453-images-thumbs&n=13",
+        "which": [
+          {
+            "id": 1,
+            "type": "Пельмени куриные",
+            "img": "https://avatars.mds.yandex.net/i?id=7b253583dbdcd769454b7db70f4f140ee54bdcd6-7760211-images-thumbs&n=13",
+            "inStock": 250,
+            "price": 290
+          },
+          {
+            "id": 2,
+            "type": "Пельмени с Сибирские",
+            "img": "https://avatars.mds.yandex.net/i?id=af3c248d971003cfdcc26d9d517c48fb2deadb4b-8438956-images-thumbs&n=13",
+            "inStock": 320,
+            "price": 320
+          }
+        ]
+      }
+    ]
+
+
+    
+  },
+
+
+
+
+  {
+    "id": 2,
+    "type": "Мясо-колбасы",
+    "inStock":700,
+    "img": "https://i.baraholka.com.ru/files/3/6/3668359_1.jpg",
+    "product": [
+      {
+        "id": 1,
+        "type": "Говядина",
+        "inStock":400,
+        "img": "https://avatars.mds.yandex.net/i?id=384391feb06305efe6b6d97d5945ff8c-7011831-images-thumbs&n=13",
+        "which": [
+          {
+            "id": 1,
+            "type": "Стэйки",
+            "img": "https://rrnews.ru/content/images/size/w2000/2020/07/fileja95-1-.jpg",
+            "inStock": 300,
+            "price": 600
+          },
+          {
+            "id": 2,
+            "type": "Фарш говяжий",
+            "img": "https://oir.mobi/uploads/posts/2020-01/1579284828_11-19.jpg",
+            "inStock": 100,
+            "price": 400
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "type": "Курица",
+        "inStock":300,
+        "img": "https://fileshki.ru/wp-content/uploads/2020/04/kury-fileshki.jpg",
+        "which": [
+          {
+            "id": 1,
+            "type": "Бедра",
+            "img": "https://avatars.mds.yandex.net/i?id=bd5b43be78f1fdde2d89907246a070fb3c6e6eb4-4809558-images-thumbs&n=13",
+            "inStock": 200,
+            "price": 350
+          },
+          {
+            "id": 2,
+            "type": "Фарш куриный",
+            "img": "https://avatars.mds.yandex.net/i?id=f40c928c4447128d93440fde2d4203f292b5cc34-8210620-images-thumbs&n=13",
+            "inStock": 100,
+            "price": 280
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "Мороженное",
+    "inStock": 40,
+    "img": "https://avatars.mds.yandex.net/i?id=2ba2cf12c5695ccaa84293969bc7c2f4b2df1265-8497538-images-thumbs&n=13",
+    "product":[
+      {
+        "id": 1,
+        "type": "Семейное",
+        "inStock":20,
+        "img": "https://avatars.mds.yandex.net/i?id=0264e01b743a68f577d40acbd98fdf5cf24f16fb-7937305-images-thumbs&n=13",
+        "which": [
+          {
+            "id": 1,
+            "type": "500гр",
+            "img": "https://avatars.mds.yandex.net/get-eda/3525402/b6fb4a97bb46cd24fc645ed273288f40/1200x1200nocrop",
+            "inStock": 5,
+            "price": 600
+          },
+          {
+            "id": 2,
+            "type": "1кг",
+            "img": "https://mykaleidoscope.ru/uploads/posts/2022-07/1657746481_51-mykaleidoscope-ru-p-magnat-mini-morozhenoe-vkusnyashki-krasivo-55.jpg",
+            "inStock": 15,
+            "price": 1200
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "type": "Пломбир",
+        "inStock":20,
+        "img": "https://m-gorodskoy.ru/upload/images/product/5767_images/source/00-00006572.jpg",
+        "which": [
+          {
+            "id": 1,
+            "type": "Пломбир молочный",
+            "img": "https://mykaleidoscope.ru/uploads/posts/2021-09/1632834286_22-mykaleidoscope-ru-p-morozhenoe-plombir-v-stakanchike-krasivo-f-30.jpg",
+            "inStock": 9,
+            "price": 70
+          },
+          {
+            "id": 2,
+            "type": "Пломбир шоколадный",
+            "img": "https://mykaleidoscope.ru/uploads/posts/2021-09/1632144491_14-mykaleidoscope-ru-p-morozhenoe-plombir-krasivo-foto-17.jpg",
+            "inStock": 11,
+            "price": 85
+          }
+        ]
+      }
+    ]
+  }
+ 
+]
+ 
